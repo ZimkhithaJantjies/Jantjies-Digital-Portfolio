@@ -1,4 +1,4 @@
-Workplace Etiquette # Workplace Etiquette - STAR Reflection
+ # Workplace Etiquette - STAR Reflection
 
 ## STAR Reflection
 
