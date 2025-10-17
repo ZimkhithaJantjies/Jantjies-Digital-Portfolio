@@ -1,8 +1,5 @@
 # Business Communication - STAR Reflection
 
-## Evidence
-
-![WhatsApp Image 2025-10-16 at 23 39 06_b0a81af3](https://github.com/user-attachments/assets/a3515140-71cb-4a72-a340-4a05da28c281)
 
 ## STAR Reflection
 
