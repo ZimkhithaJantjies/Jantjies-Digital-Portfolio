@@ -1,89 +1,51 @@
-<div align="center">
+# 🌸 Zimkhitha's Digital Portfolio 🌸
 
-# 🎓 Digital Portfolio - Work Readiness Training  
-### Zimkhitha Jantjies | PRP370S | CPUT
+## 🎀 Student Information
+- **✨ Name:** Zimkhitha Jantjies
+- **📚 Course:** PRP370S - Project Presentation 3
+- **🏫 Institution:** Cape Peninsula University of Technology
+- **💻 Faculty:** Informatics and Design
 
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Progress](https://img.shields.io/badge/Progress-100%25-success)
-![Assessment](https://img.shields.io/badge/Assessment-PRP370S-blue)
+## 🎯 Portfolio Overview
+This digital portfolio contains all my work readiness training evidence and reflections! 💫
 
-</div>
+## 📂 Portfolio Sections
 
----
+### 🧡 1. Business Communication
+- **📝 Status:** Complete ✅
+- **📅 Submission Date:** 03/03/2025
+- **🔗 Link:** [Open Business Communication Folder](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Business%20Communication)
 
-## 📋 Portfolio Overview
+### 💛 2. Interview Skills
+- **📝 Status:** Complete ✅
+- **📅 Submission Date:** 06/03/2025
+- **🔗 Link:** [Open Interview Skills Folder](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Interview%20Skills)
 
-This digital portfolio showcases my work readiness skills developed through the PRP370S Work Readiness Training program at **Cape Peninsula University of Technology**.
+### 💚 3. Mock Interview
+- **📝 Status:** Complete ✅
+- **🔗 Link:** [Open Mock Interview Folder](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Mock%20Interview)
 
----
+### 💙 4. Professional Networking
+- **📝 Status:** Complete ✅
+- **🔗 Link:** [Open Professional Networking Folder](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Professional%20Networking)
 
-## 🗂️ Portfolio Sections
+### 💜 5. Workplace Etiquette
+- **📝 Status:** Complete ✅
+- **📅 Submission Date:** 25/03/2025
+- **🔗 Link:** [Open Workplace Etiquette Folder](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Workplace%20Etiquette)
 
-### 📧 1. [Business Communication](business-communication/reflection.md)
-> **Status:** ✅ Complete | **Submitted:** 03/03/2025  
-> **Focus:** Professional emails, business reports, formal documentation  
-> **Evidence:** PROJECT PRESENTATION 3 Assessment
+## 🎨 Quick Links
+- 🧡 [Business Communication](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Business%20Communication)
+- 💛 [Interview Skills](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Interview%20Skills)
+- 💚 [Mock Interview](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Mock%20Interview)
+- 💙 [Professional Networking](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Professional%20Networking)
+- 💜 [Workplace Etiquette](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio/tree/main/Workplace%20Etiquette)
 
-### 💼 2. [Interview Skills](interview-skills/reflection.md)
-> **Status:** ✅ Complete | **Submitted:** 06/03/2025  
-> **Focus:** STAR technique, behavioral questions, professional presentation  
-> **Evidence:** PROJECT PRESENTATION 3 Assessment
-
-### 🎯 3. [Mock Interview](mock-interview/reflection.md)
-> **Status:** ✅ Complete  
-> **Focus:** Real-time performance, practical simulation, pressure management  
-> **Evidence:** Mock interview assessment
-
-### 🔗 4. [Professional Networking](professional-networking/reflection.md)
-> **Status:** ✅ Complete  
-> **Focus:** LinkedIn optimization, relationship building, industry engagement  
-> **Evidence:** Professional networking assessment
-
-### ⚡ 5. [Workplace Etiquette](workplace-etiquette/reflection.md)
-> **Status:** ✅ Complete | **Submitted:** 25/03/2025  
-> **Focus:** Professional conduct, team collaboration, organizational protocols  
-> **Evidence:** PROJECT PRESENTATION 3 Assessment
-
----
-
-## 📊 Progress Summary
-
-| Competency Area | Completion | Assessment |
-|----------------|------------|------------|
-| **Business Communication** | ✅ 100% | PROJECT PRESENTATION 3 |
-| **Interview Skills** | ✅ 100% | PROJECT PRESENTATION 3 |
-| **Mock Interview** | ✅ 100% | Practical Simulation |
-| **Professional Networking** | ✅ 100% | Strategic Assessment |
-| **Workplace Etiquette** | ✅ 100% | PROJECT PRESENTATION 3 |
+## 🌟 Main Repository
+[🎀 View My Complete Portfolio Repository](https://github.com/ZimkhithaJantjies/Jantjies-Digital-Portfolio)
 
 ---
 
-## 🚀 Quick Navigation
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| [**📧 Business Communication**](business-communication/) | [**💼 Interview Skills**](interview-skills/) | [**🎯 Mock Interview**](mock-interview/) |
-| [**🔗 Professional Networking**](professional-networking/) | [**⚡ Workplace Etiquette**](workplace-etiquette/) | |
-
-</div>
-
----
-
-## 👤 Student Information
-
-- **Name:** Zimkhitha Jantjies
-- **Course:** PRP370S - Project Presentation 3
-- **Institution:** Cape Peninsula University of Technology
-- **Faculty:** Informatics and Design
-- **Qualification:** Diploma in Information and Communication Technology
-
----
-
-<div align="center">
-
-*This portfolio was created for assessment purposes as part of the PRP370S Work Readiness Training program.*  
-**Submitted:** [Current Date]
-
-</div>
+🌸 *Thank you for viewing my portfolio!* 🌸  
+*Submitted for PRP370S Assessment*  
+*Date: October 2024* 🍂
