@@ -1,13 +1,13 @@
-## 💼 Business Communication – Evidence
+##  Business Communication – Evidence
 
 ![Business Communication Module](https://github.com/user-attachments/assets/69f2c2fd-8618-4b7f-929d-a3fca4cd3690)
 
-### 📘 Module Overview
+###  Module Overview
 During the **Work Readiness Programme**, I successfully completed the **Business Communication** module, which focused on enhancing professional communication skills vital for success in the ICT industry. The module provided a strong foundation in workplace communication standards, emphasizing clarity, structure, and professionalism in written and verbal interactions.
 
 ---
 
-### 🧠 What I Did
+###  What I Did
 - Crafted **professional emails** using appropriate tone, structure, and formatting  
 - Developed **formal business reports** aligned with standard corporate templates  
 - Practiced **professional etiquette** through collaborative and scenario-based exercises  
@@ -15,7 +15,7 @@ During the **Work Readiness Programme**, I successfully completed the **Business
 
 ---
 
-### 🌟 Outcome
+###  Outcome
 - Mastered the **core principles of professional business correspondence**  
 - Built strong confidence in producing **clear, concise, and audience-appropriate** documents  
 - Enhanced adaptability in communication style across different professional contexts  
